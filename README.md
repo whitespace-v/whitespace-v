@@ -16,7 +16,7 @@
 <a href="#macropower-title">
   <img src="https://github-readme-stats.vercel.app/api?username=whitespace-v&show_icons=true&theme=radical" alt="whitespace" align="right" />
 </a>
-<div/>
+</div>
 
 <h2 align="left" id="whitespace-v-tech">Tech Stack</h2>
 
