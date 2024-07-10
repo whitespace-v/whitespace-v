@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="left" height="300">
+<p align="center" height="300">
     <a href="#whitespace-v-title">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitespace-v&hide=javascript,html,css,scss&show_icons=true&theme=radical" alt="whitespace" />
     </a>
