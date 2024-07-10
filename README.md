@@ -12,7 +12,7 @@
     <a href="#whitespace-v-title">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitespace-v&hide=javascript,html,css,scss&show_icons=true&theme=radical" alt="whitespace" />
     </a>
-    <a href="#whitespace-v-title">
+    <a href="#whitespace-v-title" marginLeft="15">
       <img src="https://github-readme-stats.vercel.app/api?username=whitespace-v&show_icons=true&theme=radical" alt="whitespace" />
     </a>
 </p>
