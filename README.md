@@ -8,14 +8,14 @@
   </a>
 </p>
 
-<table border="0">
-  <tr border="0">
-    <td border="0">
+<table frame="none">
+  <tr colsep="0">
+    <td rowsep="0">
       <a href="#whitespace-v-title">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitespace-v&hide=javascript,html,css,scss&show_icons=true&theme=radical" alt="whitespace" />
       </a>
      </td>
-     <td border="0">
+     <td rowsep="0">
       <a href="#whitespace-v-title">
        <img src="https://github-readme-stats.vercel.app/api?username=whitespace-v&show_icons=true&theme=radical" alt="whitespace" />
       </a>
