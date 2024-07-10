@@ -9,20 +9,12 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitespace-v&show_icons=true&theme=radical" alt="macropower" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitespace-v&hide=javascript,html,css,scss&show_icons=true&theme=radical" alt="macropower" align="left" />
 </a>
 
-- SPA
-- PWA
-- REST
-- API
-- Platforms
-- Services
-- Microservices
-- Software
-- Hardware
-- DevOps Engineering
-
+<a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=whitespace-v&show_icons=true&theme=radical" alt="macropower" align="right" />
+</a>
 <br>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -241,9 +233,5 @@
     </td>
   </tr>
 </table>
-
-# Most Used languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whitespace-v&hide=javascript,html,css,scss&show_icons=true&theme=radical)
 
 
