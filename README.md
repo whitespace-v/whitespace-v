@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">Greetings, `whitspace-v` here, also as `kernel` also as `0x00000000`</h1>
+<h1 align="left" id="macropower-title">`kernel` also as `0x00000000`</h1>
 <p align="left">
   <a href="https://github.com/whitespace-v/whitespace-v">
     <img src="https://komarev.com/ghpvc/?username=whitespace-v" alt="page views" />
@@ -241,7 +241,9 @@
     </td>
   </tr>
 </table>
+
 # Most Used languages
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whitespace-v&hide=javascript,html,css,scss&show_icons=true&theme=radical)
 
 
