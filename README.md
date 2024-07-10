@@ -118,21 +118,129 @@
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/data/prisma" width="48" height="48" alt="Prisma" />
+        <img src="./img/data/prisma.svg" width="48" height="48" alt="Prisma" />
       </a>
       <br>Prisma
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/data/sql" width="48" height="48" alt="SQL" />
+        <img src="./img/data/sql.svg" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
   </tr>
 </table>
 
-> Backend development.
+> Backend techs.
 
+<table>
+ <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/back/elysia.svg" width="48" height="48" alt="Elysia" />
+      </a>
+      <br>Elysia
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/back/nodejs.svg" width="48" height="48" alt="Nodejs" />
+      </a>
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/back/nodejs.svg" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/back/actix.svg" width="48" height="48" alt="Actix" />
+      </a>
+      <br>Actix
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/back/tornado.svg" width="48" height="48" alt="Tornado" />
+      </a>
+      <br>Tornado
+    </td>
+  </tr>
+</table>
+
+> Frontend techs.
+
+<table>
+ <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/front/react.svg" width="48" height="48" alt="ReactJS" />
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/front/nextjs.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/front/redux.svg" width="48" height="48" alt="Redux Toolkit" />
+      </a>
+      <br>Redux Toolkit
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/front/gsap.svg" width="48" height="48" alt="GSAP" />
+      </a>
+      <br>GSAP
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/front/framerm.svg" width="48" height="48" alt="Framer Motion" />
+      </a>
+      <br>Framer Motion
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/front/threejs.svg" width="48" height="48" alt="Three js" />
+      </a>
+      <br>Three.js
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/front/lottie.svg" width="48" height="48" alt="Lottie" />
+      </a>
+      <br>Lottie
+    </td>
+  </tr>
+</table>
+
+> Macro & Micro techs.
+
+<table>
+ <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/tech/bun.svg" width="48" height="48" alt="Bun" />
+      </a>
+      <br>Bun
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/tech/playwright.svg" width="48" height="48" alt="Playwright" />
+      </a>
+      <br>Playwright
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/tech/pytorch.svg" width="48" height="48" alt="Pytorch" />
+      </a>
+      <br>Pytorch
+    </td>
+  </tr>
+</table>
 # Most Used languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whitespace-v&hide=javascript,html,css,scss&show_icons=true&theme=radical)
 
