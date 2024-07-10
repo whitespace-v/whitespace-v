@@ -17,8 +17,12 @@
 </a>
 
 <br>
+<br>
+<br>
+<br>
+<br>
 
-<h2 align="left" id="macropower-tech">Tech Stack</h2>
+<h2 align="left" id="whitespace-v-tech">Tech Stack</h2>
 
 > Languages.
 
