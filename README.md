@@ -8,17 +8,24 @@
   </a>
 </p>
 
-<p align="center" height="300">
+<p align="center" class="boxes">
     <a href="#whitespace-v-title">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitespace-v&hide=javascript,html,css,scss&show_icons=true&theme=radical" alt="whitespace" />
     </a>
-    <a href="#whitespace-v-title" leftMargin="15">
+    <a href="#whitespace-v-title">
       <img src="https://github-readme-stats.vercel.app/api?username=whitespace-v&show_icons=true&theme=radical" alt="whitespace" />
     </a>
 </p>
 
 <h2 align="left" id="whitespace-v-tech">Tech Stack</h2>
-
+<style>
+.boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+</style>
 > Languages.
 
 <table>
