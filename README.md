@@ -32,25 +32,25 @@
   <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/rust.svg" width="48" height="48" alt="Rust" />
+        <img src="./img/langs/rust.svg" width="48" height="48" alt="Rust" />
       </a>
       <br>Rust
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/python.svg" width="48" height="48" alt="Python" />
+        <img src="./img/langs/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/typescript.svg" width="48" height="48" alt="Typescript" />
+        <img src="./img/langs/typescript.svg" width="48" height="48" alt="Typescript" />
       </a>
       <br>Typescript
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/r.svg" width="48" height="48" alt="R" />
+        <img src="./img/langs/r.svg" width="48" height="48" alt="R" />
       </a>
       <br>R
     </td>
@@ -63,31 +63,31 @@
   <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/archlinux.svg" width="48" height="48" alt="Archlinux" />
+        <img src="./img/devops/archlinux.svg" width="48" height="48" alt="Archlinux" />
       </a>
       <br>Archlinux
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/debian.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/devops/debian.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/bash.svg" width="48" height="48" alt="Bash" />
+        <img src="./img/devops/bash.svg" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/devops/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/nginx.svg" width="48" height="48" alt="Nginx" />
+        <img src="./img/devops/nginx.svg" width="48" height="48" alt="Nginx" />
       </a>
       <br>Nginx
     </td>
@@ -100,31 +100,31 @@
  <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/postgresql.svg" width="48" height="48" alt="Postgresql" />
+        <img src="./img/data/postgresql.svg" width="48" height="48" alt="Postgresql" />
       </a>
       <br>Postgresql
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/kafka.svg" width="48" height="48" alt="Kafka" />
+        <img src="./img/data/kafka.svg" width="48" height="48" alt="Kafka" />
       </a>
       <br>Kafka
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/redis.svg" width="48" height="48" alt="Redis" />
+        <img src="./img/data/redis.svg" width="48" height="48" alt="Redis" />
       </a>
       <br>Redis
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/prisma" width="48" height="48" alt="Prisma" />
+        <img src="./img/data/prisma" width="48" height="48" alt="Prisma" />
       </a>
       <br>Prisma
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/sql" width="48" height="48" alt="SQL" />
+        <img src="./img/data/sql" width="48" height="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
