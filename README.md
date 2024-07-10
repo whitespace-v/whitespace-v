@@ -149,7 +149,7 @@
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/back/nodejs.svg" width="48" height="48" alt="Flask" />
+        <img src="./img/back/flask.svg" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
     </td>
