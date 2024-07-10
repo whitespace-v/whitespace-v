@@ -9,14 +9,16 @@
 </p>
 
 <a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitespace-v&hide=javascript,html,css,scss&show_icons=true&theme=radical" alt="macropower" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitespace-v&hide=javascript,html,css,scss&show_icons=true&theme=radical" alt="whitespace" align="left" />
 </a>
 
 <a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitespace-v&show_icons=true&theme=radical" alt="macropower" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whitespace-v&show_icons=true&theme=radical" alt="whitespace" align="right" />
 </a>
+
 <br>
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+<h2 align="left" id="macropower-tech">Tech Stack</h2>
 
 > Languages.
 
