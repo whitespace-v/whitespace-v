@@ -8,11 +8,11 @@
   </a>
 </p>
 
-<p align="center">
-    <a href="#macropower-title">
+<p align="center" height="300">
+    <a href="#whitespace-v-title">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitespace-v&hide=javascript,html,css,scss&show_icons=true&theme=radical" alt="whitespace" align="left" />
     </a>
-    <a href="#macropower-title">
+    <a href="#whitespace-v-title">
       <img src="https://github-readme-stats.vercel.app/api?username=whitespace-v&show_icons=true&theme=radical" alt="whitespace" align="right" />
     </a>
 </p>
