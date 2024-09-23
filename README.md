@@ -90,6 +90,12 @@
       </a>
       <br>Nginx
     </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/k8s.svg" width="48" height="48" alt="k8s" />
+      </a>
+      <br>K8S
+    </td>
   </tr>
 </table>
 
@@ -191,6 +197,18 @@
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
+        <img src="./img/front/jotai-mascot.png" width="48" height="48" alt="jotai" />
+      </a>
+      <br>Jotai
+    </td>
+        <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/front/zustand.png" width="48" height="48" alt="Zustand" />
+      </a>
+      <br>Zustand
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
         <img src="./img/front/gsap.svg" width="48" height="48" alt="GSAP" />
       </a>
       <br>GSAP
@@ -216,7 +234,7 @@
   </tr>
 </table>
 
-> Macro & Micro techs.
+> Other techs.
 
 <table>
  <tr>
@@ -225,6 +243,18 @@
         <img src="./img/tech/bun.svg" width="48" height="48" alt="Bun" />
       </a>
       <br>Bun
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/tech/Grafana.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/tech/prometheus.svg" width="48" height="48" alt="prometheus" />
+      </a>
+      <br>Prometheus
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
@@ -240,5 +270,3 @@
     </td>
   </tr>
 </table>
-
-
