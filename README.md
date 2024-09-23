@@ -203,7 +203,7 @@
     </td>
         <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/front/zustand.png" width="82" height="42" alt="Zustand" />
+        <img src="./img/front/zustand.png" width="84" height="48" alt="Zustand" />
       </a>
       <br>Zustand
     </td>
