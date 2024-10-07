@@ -233,6 +233,8 @@
       </a>
       <br>Three.js
     </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
         <img src="./img/front/lottie.svg" width="48" height="48" alt="Lottie" />
