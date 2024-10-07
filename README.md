@@ -249,7 +249,7 @@
  <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/cicd/gitlab.jpg" width="48" height="48" alt="Bun" />
+        <img src="./img/cicd/gitlab.png" width="48" height="48" alt="Bun" />
       </a>
       <br>GitLab
     </td>
