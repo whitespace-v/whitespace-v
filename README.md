@@ -84,6 +84,8 @@
       </a>
       <br>Docker
     </td>
+  </tr>
+  <tr>  
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
         <img src="./img/devops/nginx.svg" width="48" height="48" alt="Nginx" />
@@ -127,6 +129,8 @@
       </a>
       <br>Prisma
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
         <img src="./img/data/sql.svg" width="48" height="48" alt="SQL" />
@@ -164,6 +168,8 @@
       </a>
       <br>Actix
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
         <img src="./img/back/tornado.svg" width="48" height="48" alt="Tornado" />
@@ -201,6 +207,8 @@
       </a>
       <br>Jotai
     </td>
+      </tr>
+       <tr>
         <td align="center" width="96">
       <a href="#whitespace-v-tech">
         <img src="./img/front/zustand.png" width="84" height="48" alt="Zustand" />
@@ -213,8 +221,6 @@
       </a>
       <br>GSAP
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
         <img src="./img/front/framerm.svg" width="48" height="48" alt="Framer Motion" />
@@ -232,6 +238,26 @@
         <img src="./img/front/lottie.svg" width="48" height="48" alt="Lottie" />
       </a>
       <br>Lottie
+    </td>
+  </tr>
+</table>
+
+
+> CI/CD.
+
+<table>
+ <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/cicd/gitlab.jpg" width="48" height="48" alt="Bun" />
+      </a>
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/cicd/runner.png" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>GL runner
     </td>
   </tr>
 </table>
@@ -264,6 +290,8 @@
       </a>
       <br>Playwright
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
         <img src="./img/tech/pytorch.svg" width="48" height="48" alt="Pytorch" />
