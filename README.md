@@ -1,3 +1,4 @@
+ <img src="./img/dp3.png"/>
 <p align="left">
   <a href="https://github.com/whitespace-v/whitespace-v">
     <img src="https://komarev.com/ghpvc/?username=whitespace-v" alt="page views" />
@@ -301,5 +302,5 @@
     </td>
   </tr>
 </table>
- <img src="./img/dp3.png"/>
+
  <img src="./img/dp2.png"/>
