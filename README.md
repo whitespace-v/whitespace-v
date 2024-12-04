@@ -301,5 +301,5 @@
     </td>
   </tr>
 </table>
-![alt text](dp3.png)
-![alt text](dp2.png)
+ <img src="./img/dp3.png"/>
+ <img src="./img/dp2.png"/>
