@@ -6,7 +6,7 @@
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19308608?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://superuser.com/users/1846589">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/superuser/r/1846589?color=orange&label=reputation&logo=superuser">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/superuser/r/1846589?color=blue&label=reputation&logo=superuser">
   </a>
 </p>
 
