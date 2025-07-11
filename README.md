@@ -1,10 +1,7 @@
 <p align="left">
-  <a href="https://github.com/whitespace-v/whitespace-v">
-    <img src="https://komarev.com/ghpvc/?username=whitespace-v" alt="page views" />
-  </a>
-  <a href="https://stackoverflow.com/users/19308608">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19308608?color=orange&label=reputation&logo=stackoverflow">
-  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=whitespace-v" alt="page views" />
+  <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19308608?color=orange&label=reputation&logo=stackoverflow">
   <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/superuser/r/195224?color=blue&label=reputation&logo=superuser">
   
 </p>
