@@ -23,7 +23,7 @@
 <!-- <img src="./img/dp3.png"/> -->
 <h2 align="left" id="whitespace-v-tech">Tech Stack</h2>
 
-> Languages.
+> Languages
 
 <table>
   <tr>
@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-> DevOps.
+> DevOps
 
 <table>
  <tr>
@@ -209,7 +209,7 @@
   </tr>
 </table>
 
-> Data management
+> Data
 
 <table>
  <tr>
@@ -260,7 +260,7 @@
   </tr>
 </table>
 
-> Backend techs.
+> Backend
 
 <table>
  <tr>
@@ -325,7 +325,7 @@
   </tr>
 </table>
 
-> ML / Data Science.
+> ML / Data Science
 
 <table>
  <tr>
@@ -382,7 +382,7 @@
   </tr>
 </table>
 
-> Parsing / Scraping.
+> Scraping
 
 <table>
  <tr>
@@ -413,7 +413,7 @@
   </tr>
 </table>
 
-> Frontend techs.
+> Frontend
 
 <table>
  <tr>
@@ -488,6 +488,63 @@
       <br>SASS
     </td>
   </tr>
+</table>
+
+> Methodologies & Practices
+
+<table>
+ <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/methods/agile.png" width="48" height="48" alt="Agile" />
+      </a>
+      <br>Agile
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/methods/scrum.jpg" width="48" height="48" alt="Scrum" />
+      </a>
+      <br>Scrum
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/methods/kanban.png" width="48" height="48" alt="Kanban" />
+      </a>
+      <br>Kanban
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/methods/scrumban.avif" width="48" height="48" alt="Scrumban" />
+      </a>
+      <br>Scrumban
+    </td>
+      </tr>
+       <tr>
+        <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/methods/waterfall.webp" width="84" height="48" alt="Waterfall" />
+      </a>
+      <br>Waterfall
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/methods/jira.png" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/methods/trello.webp" width="48" height="48" alt="Trello" />
+      </a>
+      <br>Trello
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/methods/notion.png" width="48" height="48" alt="Notion" />
+      </a>
+      <br>Notion
+    </td>
+    </tr>
 </table>
 
 <img src="./img/dp2.png"/>
