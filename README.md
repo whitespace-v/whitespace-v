@@ -182,9 +182,9 @@
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/devops/hyprland.webp" width="48" height="48" alt="Hyprland" />
+        <img src="./img/devops/k3s.png" width="48" height="48" alt="k3s" />
       </a>
-      <br>Hyprland
+      <br>k3s
     </td>
   </tr>
 </table>
