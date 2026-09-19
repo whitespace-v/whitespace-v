@@ -54,7 +54,7 @@
   </tr>
 </table>
 
-> DevOps
+> DevOps.
 
 <table>
  <tr>
@@ -187,7 +187,7 @@
       <br>Hyprland
     </td>
   </tr>
-  
+</table>
 > Data management.
 
 <table>
@@ -337,5 +337,4 @@
   </tr>
 </table>
 
-</table>
 <img src="./img/dp2.png"/>
