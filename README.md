@@ -187,6 +187,26 @@
       <br>k3s
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/helm.svg" width="48" height="48" alt="Helm" />
+      </a>
+      <br>Helm
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/vnc.png" width="48" height="48" alt="VNC" />
+      </a>
+      <br>VNC
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/novnc.png" width="48" height="48" alt="NOVNC" />
+      </a>
+      <br>NOVNC
+    </td>
+  </tr>
 </table>
 
 > Data management
@@ -225,6 +245,18 @@
       </a>
       <br>SQL
     </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/data/mongodb.webp" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/data/sqlx.png" width="48" height="48" alt="SQLx" />
+      </a>
+      <br>SQLx
+    </td>
   </tr>
 </table>
 
@@ -234,10 +266,30 @@
  <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/back/elysia.svg" width="48" height="48" alt="Elysia" />
+        <img src="./img/back/actix.svg" width="48" height="48" alt="Actix" />
       </a>
-      <br>Elysia
+      <br>Actix
     </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/back/axum.png" width="48" height="48" alt="Axum" />
+      </a>
+      <br>Axum
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/back/tokio.jpg" width="48" height="48" alt="Tokio" />
+      </a>
+      <br>Tokio
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/back/tower.png" width="48" height="48" alt="Tower" />
+      </a>
+      <br>Tower
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
         <img src="./img/back/nodejs.svg" width="48" height="48" alt="Nodejs" />
@@ -246,15 +298,21 @@
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/back/flask.svg" width="48" height="48" alt="Flask" />
+        <img src="./img/back/bun.svg" width="48" height="48" alt="Bun" />
       </a>
-      <br>Flask
+      <br>Bun
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/back/actix.svg" width="48" height="48" alt="Actix" />
+        <img src="./img/back/elysia.svg" width="48" height="48" alt="Elysia" />
       </a>
-      <br>Actix
+      <br>Elysia
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/back/flask.svg" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
     </td>
   </tr>
   <tr>
@@ -263,6 +321,94 @@
         <img src="./img/back/tornado.svg" width="48" height="48" alt="Tornado" />
       </a>
       <br>Tornado
+    </td>
+  </tr>
+</table>
+
+> ML / Data Science.
+
+<table>
+ <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/ml/sklearn.png" width="48" height="48" alt="scikit-learn" />
+      </a>
+      <br>scikit-learn
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/ml/keras.png" width="48" height="48" alt="Keras" />
+      </a>
+      <br>Keras
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/ml/tensorflow.png" width="48" height="48" alt="TensorFlow" />
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/ml/opencv.png" width="48" height="48" alt="OpenCV" />
+      </a>
+      <br>OpenCV
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/ml/tesseract.jpg" width="48" height="48" alt="Tesseract OCR" />
+      </a>
+      <br>Tesseract OCR
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/ml/numpy.png" width="48" height="48" alt="NumPy" />
+      </a>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/ml/pandas.svg" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/ml/redash.png" width="48" height="48" alt="Redash" />
+      </a>
+      <br>Redash
+    </td>
+  </tr>
+</table>
+
+> Parsing / Scraping.
+
+<table>
+ <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/scrape/selenium.png" width="48" height="48" alt="Selenium" />
+      </a>
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/scrape/bs4.png" width="82" height="48" alt="BeautifulSoup" />
+      </a>
+      <br>BeautifulSoup
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/scrape/nodriver.png" width="48" height="48" alt="nodriver" />
+      </a>
+      <br>nodriver
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/scrape/scraper.jpg" width="48" height="48" alt="scraper (Rust)" />
+      </a>
+      <br>scraper
     </td>
   </tr>
 </table>
@@ -334,6 +480,12 @@
         <img src="./img/front/vue.png" width="48" height="48" alt="Vue" />
       </a>
       <br>Vue
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/front/sass.png" width="48" height="48" alt="SASS" />
+      </a>
+      <br>SASS
     </td>
   </tr>
 </table>
