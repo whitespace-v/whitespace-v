@@ -6,7 +6,7 @@
   
 </p>
 
-<table frame="none">
+<!-- <table frame="none">
   <tr colsep="0">
     <td rowsep="0">
       <a href="#whitespace-v-title">
@@ -19,8 +19,8 @@
       </a>
     </td>
   </tr>
-</table>
-<img src="./img/dp3.png"/>
+</table> -->
+<!-- <img src="./img/dp3.png"/> -->
 <h2 align="left" id="whitespace-v-tech">Tech Stack</h2>
 
 > Languages.
