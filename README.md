@@ -188,7 +188,8 @@
     </td>
   </tr>
 </table>
-> Data management.
+
+> Data management
 
 <table>
  <tr>
