@@ -54,15 +54,119 @@
   </tr>
 </table>
 
-> DevOps Engineering.
+> DevOps
 
 <table>
+ <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/gitlab.png" width="48" height="48" alt="GitLab" />
+      </a>
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/runner.png" width="48" height="48" alt="GL runner" />
+      </a>
+      <br>GL runner
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/Grafana.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/prometheus.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+  </tr>
   <tr>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/devops/archlinux.svg" width="48" height="48" alt="Archlinux" />
+        <img src="./img/devops/cron.png" width="48" height="48" alt="Cron" />
       </a>
-      <br>Archlinux
+      <br>Cron
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/argo.avif" width="48" height="48" alt="ArgoCD" />
+      </a>
+      <br>ArgoCD
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/alert.svg" width="48" height="48" alt="AlertManager" />
+      </a>
+      <br>AlertManager
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/bash.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/blackbox.png" width="48" height="48" alt="Blackbox" />
+      </a>
+      <br>Blackbox
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/cert.png" width="48" height="48" alt="CertManager" />
+      </a>
+      <br>CertManager
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/docker.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/k8s.svg" width="48" height="48" alt="K8S" />
+      </a>
+      <br>K8S
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/traefik.svg" width="48" height="48" alt="Traefik" />
+      </a>
+      <br>Traefik
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/wg.png" width="48" height="48" alt="WireGuard" />
+      </a>
+      <br>WireGuard
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/loki.jpg" width="48" height="48" alt="Loki" />
+      </a>
+      <br>Loki
+    </td>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/nginx.svg" width="48" height="48" alt="nginx" />
+      </a>
+      <br>nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#whitespace-v-tech">
+        <img src="./img/devops/ingress.png" width="48" height="48" alt="Ingress" />
+      </a>
+      <br>Ingress
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
@@ -72,33 +176,18 @@
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/devops/bash.svg" width="48" height="48" alt="Bash" />
+        <img src="./img/devops/archlinux.svg" width="48" height="48" alt="ArchLinux" />
       </a>
-      <br>Bash
+      <br>ArchLinux
     </td>
     <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/devops/docker.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/devops/hyprland.webp" width="48" height="48" alt="Hyprland" />
       </a>
-      <br>Docker
+      <br>Hyprland
     </td>
   </tr>
-  <tr>  
-    <td align="center" width="96">
-      <a href="#whitespace-v-tech">
-        <img src="./img/devops/nginx.svg" width="48" height="48" alt="Nginx" />
-      </a>
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <a href="#whitespace-v-tech">
-        <img src="./img/devops/k8s.svg" width="48" height="48" alt="k8s" />
-      </a>
-      <br>K8S
-    </td>
-  </tr>
-</table>
-
+  
 > Data management.
 
 <table>
@@ -239,66 +328,14 @@
       </a>
       <br>Lottie
     </td>
-  </tr>
-</table>
-
-
-> CI/CD.
-
-<table>
- <tr>
-    <td align="center" width="96">
+        <td align="center" width="96">
       <a href="#whitespace-v-tech">
-        <img src="./img/cicd/gitlab.png" width="48" height="48" alt="Bun" />
+        <img src="./img/front/vue.png" width="48" height="48" alt="Vue" />
       </a>
-      <br>GitLab
-    </td>
-    <td align="center" width="96">
-      <a href="#whitespace-v-tech">
-        <img src="./img/cicd/runner.png" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>GL runner
+      <br>Vue
     </td>
   </tr>
 </table>
 
-> Other techs.
-
-<table>
- <tr>
-    <td align="center" width="96">
-      <a href="#whitespace-v-tech">
-        <img src="./img/tech/bun.svg" width="48" height="48" alt="Bun" />
-      </a>
-      <br>Bun
-    </td>
-    <td align="center" width="96">
-      <a href="#whitespace-v-tech">
-        <img src="./img/tech/Grafana.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#whitespace-v-tech">
-        <img src="./img/tech/prometheus.svg" width="48" height="48" alt="prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#whitespace-v-tech">
-        <img src="./img/tech/playwright.svg" width="48" height="48" alt="Playwright" />
-      </a>
-      <br>Playwright
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#whitespace-v-tech">
-        <img src="./img/tech/pytorch.svg" width="48" height="48" alt="Pytorch" />
-      </a>
-      <br>Pytorch
-    </td>
-  </tr>
 </table>
-
- <img src="./img/dp2.png"/>
+<img src="./img/dp2.png"/>
