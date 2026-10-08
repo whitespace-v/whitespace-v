@@ -1,11 +1,11 @@
 <p align="left">
 
-  <img src="https://komarev.com/ghpvc/?username=whitespace-v" alt="page views" />
-  <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/19308608?color=orange&label=reputation&logo=stackoverflow">
+  <img src="https://komarev.com/ghpvc/?username=whitespace-v" alt="page views" /> 
+  <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/922184?color=orange&label=reputation&logo=stackoverflow">
   <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/superuser/r/195224?color=blue&label=reputation&logo=superuser">
   
 </p>
-
+<!-- 19308608--!>
 <!-- <table frame="none">
   <tr colsep="0">
     <td rowsep="0">
